@@ -1,0 +1,3 @@
+innermost key on bottom row: 2G
+top innermost on thumb cluster: 3M
+top outermost on thumb cluster: 2G
